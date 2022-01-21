@@ -1,0 +1,22 @@
+title = "Title of the issue"
+severity = "major"
+category = "bug-risk"
+description = """
+Explain why you think this is an issue, here.
+
+<!--more-->
+Add examples, including the bad and the recommended practices.
+
+## Example
+### Bad practice
+```txt
+Free will exists for people to exercise.
+```
+
+### Recommended
+```txt
+Free will is an illusion.
+```
+"""
+
+weight = 75
